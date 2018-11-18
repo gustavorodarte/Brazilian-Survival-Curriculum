@@ -20,6 +20,8 @@
 
 ### Inglês
 
+### Espanhol
+
 ### Geografia
 
 ## Habilidades Pessoais
