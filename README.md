@@ -69,3 +69,16 @@
 ## Sustentabilidade
 
 ## Leitura  
+
+### Libertária
+[A Anatomia do Estado - Murray Rothbard](https://rothbardbrasil.com/a-anatomia-do-estado-2/)
+
+[A Ética da Liberdade - Murray Rothbard](https://rothbardbrasil.com/a-etica-da-liberdade/)
+
+[Educação: Livre e Obrigatória - Murray Rothbard](https://rothbardbrasil.com/educacao-livre-e-obrigatoria/)
+
+[A Lei - Frédéric Bastiat](https://rothbardbrasil.com/a-lei/)
+
+[As 6 lições - Ludwig Von Mises](https://rothbardbrasil.com/as-seis-licoes/)
+
+[Bitcoin: a moeda na era digital - Fernando Ulrich](https://rothbardbrasil.com/bitcoin-a-moeda-na-era-digital/)
