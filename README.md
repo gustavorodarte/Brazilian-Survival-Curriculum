@@ -2,6 +2,8 @@
 
 ## Disciplinas escolares
 
+### Português
+
 ### Matemática
 
 ### Ciência
@@ -16,6 +18,9 @@
 
 ### História
 
+### Inglês
+
+### Geografia
 
 ## Habilidades Pessoais
 
@@ -29,7 +34,7 @@
 
 ### Cuidados Pessoais
 
-### Exercicios e Saude física
+### Exercicios e Saúde física
 
 ### Primeiros Socorros
 
@@ -61,7 +66,4 @@
 
 ## Sustentabilidade
 
-
 ## Leitura  
-
-
