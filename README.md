@@ -49,6 +49,7 @@
 ### Noções de mecânica
 
 ### Noções de informática
+### Noções de lógica de programação
 
 ### Segurança virtual
 
